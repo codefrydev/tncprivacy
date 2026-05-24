@@ -1,24 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rich Content and Shortcodes on CFD TnC and Privacy</title>
+    <title>Privacy Policy on CFD TnC and Privacy</title>
     <link>https://codefrydev.in/tncprivacy/privacy/</link>
-    <description>Recent content in Rich Content and Shortcodes on CFD TnC and Privacy</description>
+    <description>Recent content in Privacy Policy on CFD TnC and Privacy</description>
     <image>
       <title>CFD TnC and Privacy</title>
       <url>https://codefrydev.in/tncprivacy/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://codefrydev.in/tncprivacy/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://codefrydev.in/tncprivacy/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Water App Privacy Policy</title>
+      <title>Cookie Policy</title>
+      <link>https://codefrydev.in/tncprivacy/privacy/cookies/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/privacy/cookies/</guid>
+      <description>Cookie and similar technology usage across the CodeFryDev ecosystem.</description>
+    </item>
+    <item>
+      <title>General Privacy Policy</title>
+      <link>https://codefrydev.in/tncprivacy/privacy/general/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/privacy/general/</guid>
+      <description>Privacy Policy governing personal data processing across the CodeFryDev ecosystem, including Google Analytics and Microsoft Clarity.</description>
+    </item>
+    <item>
+      <title>Subprocessor List</title>
+      <link>https://codefrydev.in/tncprivacy/privacy/subprocessors/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/privacy/subprocessors/</guid>
+      <description>Third-party subprocessors used by CodeFryDev to process personal data.</description>
+    </item>
+    <item>
+      <title>Water App — Supplementary Privacy Policy</title>
       <link>https://codefrydev.in/tncprivacy/privacy/water/</link>
-      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <guid>https://codefrydev.in/tncprivacy/privacy/water/</guid>
-      <description>This website will contail privacy and policy and terms and condition of using water reminder app</description>
+      <description>Privacy Policy for the Water hydration-reminder mobile application.</description>
     </item>
   </channel>
 </rss>

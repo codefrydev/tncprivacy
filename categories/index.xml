@@ -9,8 +9,58 @@
       <url>https://codefrydev.in/tncprivacy/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://codefrydev.in/tncprivacy/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://codefrydev.in/tncprivacy/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://codefrydev.in/tncprivacy/categories/ai/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core</title>
+      <link>https://codefrydev.in/tncprivacy/categories/core/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>https://codefrydev.in/tncprivacy/categories/design/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>https://codefrydev.in/tncprivacy/categories/education/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://codefrydev.in/tncprivacy/categories/games/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://codefrydev.in/tncprivacy/categories/hardware/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://codefrydev.in/tncprivacy/categories/tools/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/tncprivacy/categories/tools/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
