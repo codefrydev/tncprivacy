@@ -1,39 +1,88 @@
 ---
-author: ["Codefrydev", "Prashantunity","Abhijeetunreal"]
-title: "Water App Terms & Conditions"
-date: "2025-07-20"
-description: "This website will contain Terms & Conditions of using water reminder app"
-tags: ["CFD", "Codefrydev", "Term"]
+author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
+title: "Water App — Supplementary Terms"
+date: "2026-05-24"
+description: "Product-specific Terms and Conditions for the Water reminder mobile application, supplementing the CodeFryDev General Terms."
+tags: ["CFD", "CodeFryDev", "Terms", "Water App"]
 ---
 
-**Terms & Conditions**  
+## Product-Specific Supplementary Terms
 
-These terms and conditions apply to the Water App app (hereby referred to as "Application") for mobile devices that was created by codefrydev (hereby referred to as "Service Provider") as a Free service.
+The present instrument constitutes a **Product-Specific Supplement** to the [CodeFryDev General Terms and Conditions of Use](/term/general/) (hereinafter the **"General Terms"**). By downloading, installing, accessing, or otherwise utilising the Water App (hereinafter the **"Application"**), the User acknowledges and agrees to be bound concurrently by both the General Terms and the supplementary provisions hereinafter set forth.
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+In the event of any irreconcilable inconsistency between this Supplement and the General Terms, the provisions of this Supplement shall prevail **solely with respect to the Application**; all other provisions of the General Terms shall remain in full force and effect without modification.
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+The Application constitutes a mobile hydration-reminder service developed and disseminated by **CodeFryDev** (hereinafter the **"Service Provider"**). At present, the Application is offered on a gratuitous basis, subject to the Service Provider's reserved prerogative to introduce remunerative features upon adequate prior notice, as contemplated within the General Terms.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+### Dissent and Immediate Cessation of Use
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+Should the User withhold unqualified assent to the present Supplement, the [General Terms](/term/general/), or the [Water App Privacy Policy](/privacy/water/), the User is under an **immediate and unconditional obligation** to **uninstall the Application forthwith** and discontinue all use without delay.
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+### Related Policies
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+| Policy | Link |
+| --- | --- |
+| General Terms | [/term/general/](/term/general/) |
+| Water App Privacy | [/privacy/water/](/privacy/water/) |
+| General Privacy | [/privacy/general/](/privacy/general/) |
+| Cookie Policy | [/privacy/cookies/](/privacy/cookies/) |
+| Code of Conduct | [/term/code-of-conduct/](/term/code-of-conduct/) |
+| Security Disclosure | [/term/security-disclosure/](/term/security-disclosure/) |
+| DMCA / Copyright | [/term/dmca/](/term/dmca/) |
+| Legal Notice | [/term/legal-notice/](/term/legal-notice/) |
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+---
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+## 1. Device Compatibility and Platform Integrity
 
-**Changes to These Terms and Conditions**
+The Application is architected for deployment upon mobile computing devices operating systems compatible with those specified upon the relevant application marketplace listing. The Service Provider extends no warranty of functionality on devices that have been modified through jailbreaking, rooting, or analogous circumvention of manufacturer-imposed software restrictions.
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+The User is expressly cautioned that such modifications may materially compromise device security, expose the device to malicious software, and precipitate partial or total malfunction of the Application. The Service Provider disclaims all liability for adverse consequences arising from utilisation of the Application upon compromised or non-standard device configurations.
 
-These terms and conditions are effective as of 2025-07-20
+---
 
-**Contact Us**
+## 2. Network Connectivity and Telecommunications Charges
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at codefrydev@gmail.com.
+Certain functionalities embedded within the Application presuppose the availability of an active internet connection, whether furnished via wireless local area network (Wi-Fi) or a mobile telecommunications network. The Service Provider shall bear no responsibility for diminished functionality attributable to connectivity unavailability, signal degradation, or exhaustion of the User's allocated data allowance.
+
+Where the Application is accessed beyond the coverage of a Wi-Fi network, standard data transmission charges levied by the User's mobile network operator may apply, including, without limitation, roaming tariffs incurred outside the User's habitual territory. The User assumes sole financial responsibility for such charges. Where the User is not the account holder or bill payer for the device in question, they represent and warrant that requisite consent has been obtained from the responsible party.
+
+---
+
+## 3. Device Maintenance and Operational Preconditions
+
+The User bears exclusive responsibility for maintaining their device in a condition suitable for the operation of the Application, including adequate battery charge, sufficient storage capacity, and compliance with minimum system requirements. The Service Provider shall not be liable for inability to access or utilise the Application arising from device power depletion, storage insufficiency, or other environmental or hardware-related conditions attributable to the User.
+
+---
+
+## 4. Health Information and Limitation of Reliance
+
+The Application furnishes hydration reminders and ancillary wellness-oriented functionality exclusively for general informational purposes. It does **not** constitute, and shall not be relied upon as, medical advice, clinical diagnosis, therapeutic intervention, or a substitute for professional healthcare counsel. The User is strongly advised to consult a duly qualified healthcare practitioner regarding any health-related determinations.
+
+Whilst the Service Provider endeavours to ensure the accuracy and timeliness of information presented within the Application, certain data elements may be derived from third-party sources beyond the Service Provider's direct control. The Service Provider expressly disclaims liability for any direct, indirect, or consequential loss arising from exclusive or primary reliance upon the Application's functionality, notifications, or displayed content.
+
+---
+
+## 5. Software Updates and Discontinuance
+
+The Service Provider may, at its discretion, release updates to the Application for the purposes of defect remediation, feature enhancement, or preservation of compatibility with evolving operating system architectures. Continued utilisation of the Application may necessitate the installation of such updates. The Service Provider extends no guarantee that updates will maintain compatibility with every device configuration or operating system iteration.
+
+The Service Provider reserves an unrestricted right to discontinue the Application, in whole or in part, at any time and with or without prior notice, subject only to mandatory obligations imposed by applicable law. Upon discontinuance, the User's licence to operate the Application shall terminate forthwith, and the User should proceed to uninstall the Application from all associated devices.
+
+For particulars regarding the processing of personal data in connection with the Application, the User is referred to the [Water App Privacy Policy](/privacy/water/).
+
+---
+
+## 6. Amendment of Supplementary Terms
+
+The Service Provider may revise this Supplement periodically to reflect changes in the Application, applicable law, or operational requirements. Material amendments shall be published upon this page. Continued use of the Application following such publication shall constitute acceptance of the revised Supplement to the extent permitted by applicable law.
+
+This Supplement shall take effect as of **24 May 2026**.
+
+---
+
+## Correspondence
+
+Enquiries pertaining to this Supplement may be directed to the Service Provider at [codefrydev@gmail.com](mailto:codefrydev@gmail.com).
 
 * * *

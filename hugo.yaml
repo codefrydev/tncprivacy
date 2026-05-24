@@ -20,7 +20,7 @@ menu:
       url: /privacy
       weight: 11
     - identifier: term
-      name: Term
+      name: Terms
       url: /term
       weight: 11
     - identifier: archive
@@ -30,7 +30,7 @@ menu:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: codefrydev
-  description: "codefrydev description"
+  description: "Comprehensive legal and privacy framework governing the CodeFryDev Ecosystem — Terms, Privacy Policy, and product-specific instruments."
   keywords: [Privacy, Term, Conditions, CodeFryDev, CFD,Privacy, TnC]
   mainSections: ["privacy", "term"]
   author: Codeferydev
