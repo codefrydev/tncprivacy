@@ -1,0 +1,12 @@
+{{- $dest := partial "funcs/subpath-url.html" .Destination -}}
+{{- $parsed := urls.Parse (.Destination | safeURL) -}}
+{{- $isExternal := false -}}
+{{- if and $parsed.IsAbs (strings.HasPrefix $parsed.Scheme "http") -}}
+  {{- if ne $parsed.Host (urls.Parse site.BaseURL).Host -}}
+    {{- $isExternal = true -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $dest }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end -}}
+>{{ .Text | safeHTML }}</a>

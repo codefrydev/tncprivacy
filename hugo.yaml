@@ -4,6 +4,9 @@ theme: PaperMod
 
 enableRobotsTXT: true
 
+# All internal links resolve under https://codefrydev.in/tncprivacy/
+# See layouts/partials/funcs/subpath-url.html and layouts/_default/_markup/render-link.html
+
 #googleAnalytics: UA-123-45
 minify:
   disableXML: true
@@ -50,4 +53,4 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false 
   ShowCopyright: true
-  copyright: "© 2025 CodeFryDev. All rights reserved."
+  copyright: "© 2026 CodeFryDev. All rights reserved."

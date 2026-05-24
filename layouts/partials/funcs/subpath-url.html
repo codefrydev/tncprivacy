@@ -1,0 +1,39 @@
+{{- /*
+  Rewrites internal URLs so they always resolve under site.BaseURL (/tncprivacy/).
+  Usage: {{ partial "funcs/subpath-url.html" "/term/general/" }}
+*/ -}}
+{{- $dest := . | safeURL -}}
+{{- $parsed := urls.Parse $dest -}}
+{{- $base := urls.Parse site.BaseURL -}}
+{{- $internalPrefixes := slice "/term" "/privacy" "/archives" "/search" "/page" "/tags" "/categories" -}}
+
+{{- if $parsed.IsAbs -}}
+  {{- if and (eq $parsed.Host $base.Host) (not (strings.HasPrefix $parsed.Path $base.Path)) -}}
+    {{- $isInternal := false -}}
+    {{- range $internalPrefixes -}}
+      {{- if strings.HasPrefix $parsed.Path . -}}
+        {{- $isInternal = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $isInternal -}}
+      {{- $path := path.Join $base.Path (strings.TrimPrefix "/" $parsed.Path) -}}
+      {{- $dest = printf "%s://%s%s" $base.Scheme $base.Host $path -}}
+      {{- with $parsed.RawQuery -}}
+        {{- $dest = printf "%s?%s" $dest . -}}
+      {{- end -}}
+      {{- with $parsed.Fragment -}}
+        {{- $dest = printf "%s#%s" $dest . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if strings.HasPrefix $dest "/" -}}
+  {{- $path := path.Join $base.Path (strings.TrimPrefix "/" $parsed.Path) -}}
+  {{- $dest = printf "%s://%s%s" $base.Scheme $base.Host $path -}}
+  {{- with $parsed.RawQuery -}}
+    {{- $dest = printf "%s?%s" $dest . -}}
+  {{- end -}}
+  {{- with $parsed.Fragment -}}
+    {{- $dest = printf "%s#%s" $dest . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $dest -}}
