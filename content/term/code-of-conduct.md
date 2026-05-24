@@ -1,22 +1,22 @@
 ---
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
-title: "Community Code of Conduct"
+title: "Community Code of Conduct Instrument"
 date: "2026-05-24"
-description: "Expected standards of behaviour for CodeFryDev community participation, open source contributions, and support channels."
+description: "Prescriptive standards of conduct and decorum for CodeFryDev community participation, open source contributions, and support channels."
 tags: ["CFD", "CodeFryDev", "Code of Conduct", "Community"]
 ---
 
-## Purpose
+## Preamble and Purpose
 
-The present Community Code of Conduct (hereinafter the **"Code"**) articulates the standards of conduct expected of all persons who interact with **CodeFryDev**—encompassing users of Digital Properties, open source contributors, issue reporters, and broader community participants—informed by widely adopted frameworks including the [Contributor Covenant](https://www.contributor-covenant.org/) and community guidelines published by major open source foundations.
+The present Community Code of Conduct Instrument (hereinafter the **"Code"**) articulates the standards of conduct expected of all persons who interact with **CodeFryDev**—encompassing users of Digital Properties, open source contributors, issue reporters, and broader community participants—informed by widely adopted frameworks including the [Contributor Covenant](https://www.contributor-covenant.org/) and community guidelines published by major open source foundations.
 
-This Code operates as a supplementary instrument to the [General Terms and Conditions of Use](/term/general/) and the [General Privacy Policy](/privacy/general/).
+This Code operates as an ancillary instrument supplemental to the [General Terms and Conditions of Use](/term/general/) and the [General Privacy Policy](/privacy/general/).
 
 ---
 
-## Standards of Conduct
+## Prescriptive Standards of Conduct
 
-Participants are expected to:
+Participants are expected, as a condition of community engagement, to:
 
 - evince empathy, mutual respect, and professional decorum in all interactions;
 - receive constructive criticism with equanimity and good faith;
@@ -35,22 +35,22 @@ Conduct deemed unacceptable includes, without limitation:
 
 ---
 
-## Scope of Application
+## Territorial and Contextual Scope of Application
 
 This Code applies within project spaces—including repositories, issue trackers, forums, and chat channels—and extends to circumstances in which an individual officially represents the project in public fora.
 
 ---
 
-## Enforcement Mechanisms
+## Enforcement Modalities and Sanctions
 
 Project maintainers retain discretion to remove, edit, or reject contributions and may impose temporary or permanent exclusion upon participants whose conduct is adjudged inappropriate, threatening, offensive, or injurious to the community.
 
-Reports should be submitted to [codefrydev@gmail.com](mailto:codefrydev@gmail.com) with the subject line **"Code of Conduct Report"**.
+Reports shall be transmitted to [codefrydev@gmail.com](mailto:codefrydev@gmail.com) with the subject line **"Code of Conduct Report"**.
 
 ---
 
 ## Attribution
 
-Adapted from community norms established by the Contributor Covenant and major open source projects (GitHub, GitLab, Mozilla, Apache Foundation).
+Formulated in accordance with community norms established by the Contributor Covenant and major open source projects (GitHub, GitLab, Mozilla, Apache Foundation).
 
 *Effective: 24 May 2026*

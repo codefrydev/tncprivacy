@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "General Privacy Policy"
 date: "2026-05-24"
-description: "Privacy Policy governing personal data processing across the CodeFryDev ecosystem, including Google Analytics and Microsoft Clarity."
+description: "Privacy policy instrument governing the processing of personal data processing across the CodeFryDev ecosystem, including Google Analytics and Microsoft Clarity."
 tags: ["CFD", "CodeFryDev", "Privacy", "General"]
 ---
 
@@ -10,18 +10,18 @@ tags: ["CFD", "CodeFryDev", "Privacy", "General"]
 
 The present General Privacy Policy (hereinafter the **"Policy"**) explicates the manner in which **CodeFryDev** (hereinafter the **"Service Provider"**, **"we"**, **"us"**, or **"our"**) collects, uses, stores, discloses, and otherwise processes information in connection with the **CodeFryDev Ecosystem**—the portfolio of websites, browser-based tools, online games, artificial intelligence interfaces, design utilities, educational platforms, application programming interfaces, and mobile applications accessible via [codefrydev.in](https://codefrydev.in/) and related channels.
 
-This Policy applies **uniformly across all web-based Digital Properties** enumerated in [Terms Schedule E](/term/general/#schedule-e--codefrydev-ecosystem-product-catalogue) unless a Product-Specific Privacy Policy expressly provides otherwise. It should be read in conjunction with the [General Terms and Conditions of Use](/term/general/), [Cookie Policy](/privacy/cookies/), [Community Code of Conduct](/term/code-of-conduct/), and [Security Policy](/term/security-disclosure/).
+This Policy applies **uniformly across all web-based Digital Properties** enumerated in [Terms Schedule E](/term/general/#schedule-e--codefrydev-ecosystem-product-catalogue) unless a Product-Specific Privacy Policy expressly provides otherwise. It should be read in conjunction with the [General Terms and Conditions of Use](/term/general/), [Cookie Policy](/privacy/cookies/), [Community Code of Conduct Instrument](/term/code-of-conduct/), and [Security Policy](/term/security-disclosure/).
 
 ### Dissent and Immediate Cessation of Use
 
-Should the User withhold assent to any provision of this Policy—including the collection of analytics data via Google Analytics and Microsoft Clarity, cross-product session correlation, or international data transfers—the User is under an **immediate obligation to cease** all use of CodeFryDev Digital Properties: terminate browser sessions, uninstall any Application, and refrain from subsequent access. **Continued use constitutes acceptance** of this Policy to the extent mandated by applicable law.
+Should the User withhold assent to any provision of this Policy—including the collection of analytics data via Google Analytics and Microsoft Clarity, cross-product session correlation, or international data transfers—the User is under an **immediate obligation to cease** all use of CodeFryDev Digital Properties: terminate browser sessions, uninstall any Application, and refrain from subsequent access. **Continued utilisation shall constitute conclusive acceptance** of this Policy to the extent mandated by applicable law.
 
 ---
 
-## 1. Scope and Data Controller
+## 1. Scope, Applicability, and Data Controller Designation
 
 **Data Controller:** CodeFryDev  
-**Contact:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com)  
+**Correspondence:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com)  
 **Grievance Officer (India):** [codefrydev@gmail.com](mailto:codefrydev@gmail.com) — subject **"Grievance – Privacy"**  
 **Governing Terms:** [General Terms](/term/general/)
 
@@ -31,9 +31,9 @@ The Service Provider **does not sell** Personal Data. The Service Provider **doe
 
 ---
 
-## 2. Categories of Information Collected
+## 2. Taxonomy of Information Collected and Processed
 
-### 2.1 Information Furnished Voluntarily
+### 2.1 Information Furnished Voluntarily by the Data Subject
 
 Depending upon the Digital Property accessed, the User may furnish:
 
@@ -43,7 +43,7 @@ Depending upon the Digital Property accessed, the User may furnish:
 - survey or form responses where such instruments are offered;
 - open source contributions (via GitHub/GitLab — governed additionally by those platforms).
 
-### 2.2 Automatically Collected Information
+### 2.2 Information Collected Through Automated Modalities
 
 Upon access to any web-based Digital Property, the Service Provider and its Analytics Services automatically collect:
 
@@ -57,29 +57,29 @@ Upon access to any web-based Digital Property, the Service Provider and its Anal
 - error logs, crash reports, and performance metrics;
 - cookie identifiers and analogous online identifiers.
 
-### 2.3 Session Recording and Interaction Data (Microsoft Clarity)
+### 2.3 Session Recording and Interaction Telemetry (Microsoft Clarity)
 
 Through **Microsoft Clarity** (Project ID: **`mxr4hxioh4`**), the Service Provider collects interaction data that may encompass session replays, heatmaps, rage-click and dead-click indicators, and page element engagement metrics.
 
 **Caution:** The User is expressly advised against entering authentication credentials, payment information, or sensitive personal identifiers into any CodeFryDev tool whilst session-recording technologies remain operative.
 
-### 2.4 Google Analytics Data
+### 2.4 Statistical Usage Data (Google Analytics)
 
 Through **Google Analytics** (Measurement ID: **`G-VM01Q3R43D`**), the Service Provider collects statistical usage data. See [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### 2.5 Information Not Intentionally Collected
+### 2.5 Categories of Information Not Intentionally Collected
 
 The Service Provider does not intentionally collect government identification numbers, payment card numbers, or health records through general-purpose tools. **The User must refrain from submitting such data** into browser-based utilities.
 
 ---
 
-## 3. Cross-Product Analytics
+## 3. Cross-Product Analytics and Session Correlation
 
 Google Analytics and Microsoft Clarity are deployed at the **platform level**. User interactions may be **correlated across multiple products** within a single session. See [Cookie Policy](/privacy/cookies/) for control mechanisms.
 
 ---
 
-## 4. Purposes and Legal Bases for Processing
+## 4. Purposes of Processing and Corresponding Legal Bases
 
 | Purpose | Examples | Typical Legal Basis |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Google Analytics and Microsoft Clarity are deployed at the **platform level**. U
 
 ---
 
-## 5. Cookies and Similar Technologies
+## 5. Cookies, Local Storage, and Analogous Technologies
 
 Particulars appear in the [Cookie Policy](/privacy/cookies/). The Service Provider employs strictly necessary, analytics, and functional storage mechanisms.
 
@@ -100,7 +100,7 @@ Particulars appear in the [Cookie Policy](/privacy/cookies/). The Service Provid
 
 ---
 
-## 6. Sharing and Subprocessors
+## 6. Disclosure, Sharing, and Subprocessor Arrangements
 
 The Service Provider does not sell Personal Data. Subprocessors include:
 
@@ -115,13 +115,13 @@ Disclosure also occurs where mandated by law, to protect rights and safety, or d
 
 ---
 
-## 7. International Data Transfers
+## 7. International and Cross-Border Data Transfers
 
 Personal Data may be processed in **India** and other jurisdictions where the Service Provider or subprocessors maintain operations. Appropriate safeguards (Standard Contractual Clauses, equivalent measures) are employed where required by GDPR, UK GDPR, or India DPDP.
 
 ---
 
-## 8. Data Retention
+## 8. Data Retention and Erasure Schedules
 
 | Data type | Retention |
 | --- | --- |
@@ -133,7 +133,7 @@ Personal Data may be processed in **India** and other jurisdictions where the Se
 
 ---
 
-## 9. Data Subject Rights
+## 9. Data Subject Rights and Exercising Entitlements
 
 Subject to applicable law, the User may request:
 
@@ -146,11 +146,11 @@ Subject to applicable law, the User may request:
 - **withdrawal of consent** where consent constitutes the legal basis;
 - **lodgement of a complaint** with a supervisory authority.
 
-**Submit requests:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com) — subject **"Privacy Rights Request"**. The Service Provider may verify identity. Target response period: **30 days**.
+**Lodgement of requests:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com) — subject **"Privacy Rights Request"**. The Service Provider may verify identity. Prescribed response period: **30 days**.
 
 ---
 
-## 10. Region-Specific Disclosures
+## 10. Jurisdiction-Specific Disclosures and Compliance Modalities
 
 ### 10.1 India — Digital Personal Data Protection Act, 2023
 
@@ -170,37 +170,37 @@ Additional rights may apply under local law. The Service Provider invites jurisd
 
 ---
 
-## 11. Children
+## 11. Minors and Age-Restricted Processing
 
 Digital Properties are not directed at persons under **16** years of age. The Service Provider does not knowingly collect data from children below applicable thresholds. Deletion requests may be submitted to the contact address above.
 
 ---
 
-## 12. Security
+## 12. Security Safeguards and Incident Response
 
 The Service Provider implements reasonable safeguards aligned with industry practice (informed by OWASP and cloud provider best practices). Vulnerabilities should be reported pursuant to the [Security Policy](/term/security-disclosure/). **No information system is entirely impervious to compromise.**
 
 ---
 
-## 13. Data Breach Notification
+## 13. Personal Data Breach Notification Protocol
 
 Where a Personal Data breach likely to affect data subject rights occurs, the Service Provider shall notify affected users and regulators **as mandated by applicable law**, describing the nature of the breach and remediation measures undertaken.
 
 ---
 
-## 14. Artificial Intelligence and Automated Processing
+## 14. Artificial Intelligence, Automated Processing, and Algorithmic Systems
 
 Artificial intelligence features may process prompts to generate outputs. The Service Provider does **not** utilise tool inputs to train third-party foundation models unless expressly disclosed for a specific product. Analytics may employ aggregated, anonymised usage patterns. **No solely automated legal decisions** producing significant effects are rendered concerning users unless expressly disclosed.
 
 ---
 
-## 15. Third-Party Links and Embedded Content
+## 15. Third-Party Hyperlinks and Embedded Content
 
 Digital Properties may hyperlink to GitHub, application marketplaces, social media platforms, or external APIs. The privacy practices of such third parties govern upon departure from Service Provider properties or interaction with embedded content.
 
 ---
 
-## 16. Product-Specific Policies
+## 16. Product-Specific Privacy Instruments
 
 | Product | Policy |
 | --- | --- |
@@ -208,19 +208,19 @@ Digital Properties may hyperlink to GitHub, application marketplaces, social med
 
 ---
 
-## 17. Amendments to This Policy
+## 17. Amendment and Revision of This Policy
 
 Material amendments shall be communicated via updated effective date and reasonable notice. Continued use constitutes acknowledgment where permitted by applicable law.
 
 ---
 
-## 18. Open Source Repositories
+## 18. Open Source Repository Activity and Platform Logging
 
-GitHub/GitLab activity (clones, stars, pull requests) is logged by those platforms. See their respective privacy policies. The [Community Code of Conduct](/term/code-of-conduct/) applies to contributions.
+GitHub/GitLab activity (clones, stars, pull requests) is logged by those platforms. See their respective privacy policies. The [Community Code of Conduct Instrument](/term/code-of-conduct/) applies to contributions.
 
 ---
 
-## Effective Date
+## Effective Date and Temporal Applicability
 
 This General Privacy Policy is effective as of **24 May 2026**.
 

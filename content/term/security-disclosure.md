@@ -1,6 +1,6 @@
 ---
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
-title: "Security & Responsible Disclosure Policy"
+title: "Security and Responsible Disclosure Policy Policy"
 date: "2026-05-24"
 description: "Procedures for responsible disclosure of security vulnerabilities in CodeFryDev products."
 tags: ["CFD", "CodeFryDev", "Security", "Disclosure"]

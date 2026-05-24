@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Copyright & DMCA Takedown Policy"
 date: "2026-05-24"
-description: "Procedures for reporting copyright infringement on CodeFryDev properties."
+description: "Prescribed procedures for the reporting of copyright infringement on CodeFryDev properties."
 tags: ["CFD", "CodeFryDev", "DMCA", "Copyright"]
 ---
 

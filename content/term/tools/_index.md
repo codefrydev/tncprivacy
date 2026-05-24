@@ -2,15 +2,15 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Developer Tools & Utilities — Terms Index"
 date: "2026-05-24"
-description: "Product-specific supplementary Terms for CodeFryDev Developer Tools & Utilities products."
+description: "Product Terms and Conditions of Use governing CodeFryDev Developer Tools & Utilities products."
 tags: ["CFD", "CodeFryDev", "Terms", "Developer Tools & Utilities"]
 ---
 
 ## Developer Tools & Utilities
 
-Each product enumerated below is governed by **individual Supplementary Terms** in addition to the [General Terms and Conditions of Use](/term/general/). All web-based products employ **Google Analytics** (`G-VM01Q3R43D`) and **Microsoft Clarity** (`mxr4hxioh4`) unless otherwise stated.
+Each product enumerated below is subject to **individual Product Terms and Conditions of Use** in augmentation of the [General Terms and Conditions of Use](/term/general/). All web-based products employ **Google Analytics** (`G-VM01Q3R43D`) and **Microsoft Clarity** (`mxr4hxioh4`) unless otherwise stated.
 
-> **Open Source:** Most products in this category are published under the **[MIT Licence](https://opensource.org/licenses/MIT)** unless otherwise noted in the repository `LICENSE` file. See [Article 29](/term/general/#article-29--open-source-software-licences-and-source-code) and [Schedule F](/term/general/#schedule-f--open-source-licensing-by-product-category).
+> **Open Source Dissemination:** The majority of products within this taxonomic category are disseminated under the **[MIT Licence](https://opensource.org/licenses/MIT)** unless otherwise noted in the repository `LICENSE` file. See [Article 29](/term/general/#article-29--open-source-software-licences-and-source-code) and [Schedule F](/term/general/#schedule-f--open-source-licensing-by-product-category).
 | Product | Terms | Live URL |
 | --- | --- | --- |
 | Bluescreen Simulator | [Terms](/term/tools/bluescreen-simulator/) | [/bluescreenofdeath/](https://codefrydev.in/bluescreenofdeath/) |
@@ -44,4 +44,4 @@ Each product enumerated below is governed by **individual Supplementary Terms** 
 
 ---
 
-*28 products in this category.*
+*Aggregate enumeration: 28 products within this taxonomic category.*

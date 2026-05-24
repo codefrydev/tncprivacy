@@ -2,13 +2,13 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Core Platform — Terms Index"
 date: "2026-05-24"
-description: "Product-specific supplementary Terms for CodeFryDev Core Platform products."
+description: "Product Terms and Conditions of Use governing CodeFryDev Core Platform products."
 tags: ["CFD", "CodeFryDev", "Terms", "Core Platform"]
 ---
 
 ## Core Platform
 
-Each product enumerated below is governed by **individual Supplementary Terms** in addition to the [General Terms and Conditions of Use](/term/general/).
+Each product enumerated below is subject to **individual Product Terms and Conditions of Use** in augmentation of the [General Terms and Conditions of Use](/term/general/).
 
 > **Open Source:** Core platform pages are **proprietary** but may embed MIT-licensed components. Individual tools and games linked from the portal typically have separate MIT-licensed repositories.
 
@@ -44,4 +44,4 @@ All web-based products employ **Google Analytics** (`G-VM01Q3R43D`) and **Micros
 
 ---
 
-*25 products in this category.*
+*Aggregate enumeration: 25 products within this taxonomic category.*

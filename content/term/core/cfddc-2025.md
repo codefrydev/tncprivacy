@@ -1,79 +1,79 @@
 ---
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
-title: "CFDC 2025 — Supplementary Terms"
+title: "CFDC 2025 — Product Terms and Conditions of Use"
 date: "2026-05-24"
-description: "Product-specific Terms and Conditions for CFDC 2025 within the CodeFryDev Ecosystem."
+description: "Product Terms and Conditions of Use governing CFDC 2025 within the CodeFryDev Ecosystem."
 tags: ["CFD", "CodeFryDev", "Terms", "CFDC 2025"]
 categories: ["core"]
 product_url: "https://codefrydev.in/cfddc/2025/"
 ---
 
-## Product-Specific Supplementary Terms
+## Product Terms and Conditions of Use
 
-These Terms constitute a **Product-Specific Supplement** to the [CodeFryDev General Terms and Conditions of Use](/term/general/) (the **"General Terms"**). They apply exclusively to **CFDC 2025** (the **"Product"**), accessible at [https://codefrydev.in/cfddc/2025/](https://codefrydev.in/cfddc/2025/).
+The present instrument establishes the **Product Terms and Conditions of Use** governing **CFDC 2025** (the **"Product"**), accessible at [https://codefrydev.in/cfddc/2025/](https://codefrydev.in/cfddc/2025/), incorporated herein by reference into the [CodeFryDev General Terms and Conditions of Use](/term/general/) (hereinafter the **"General Terms"**).
 
-By effectuating access to or utilisation of the Product, the User voluntarily undertakes to be bound concurrently by the General Terms, the present Supplement, and the [General Privacy Policy](/privacy/general/). In the event of irreconcilable inconsistency, **this Supplement shall prevail solely with respect to CFDC 2025**.
+By effectuating access to, navigation within, or continued utilisation of the Product, the User voluntarily undertakes concurrent juridical obligation under the General Terms, the present Product Terms, and the [General Privacy Policy](/privacy/general/). In the event of irreconcilable inconsistency, **these Product Terms shall prevail solely with respect to CFDC 2025**.
 
-### Product Identification
+### Designation, Classification, and Identifying Particulars
 
-| Field | Detail |
+| Attribute | Particulars |
 | --- | --- |
-| **Product Name** | CFDC 2025 |
-| **Category** | Core Platform |
+| **Designation** | CFDC 2025 |
+| **Taxonomic Classification** | Core Platform |
 | **URL** | [https://codefrydev.in/cfddc/2025/](https://codefrydev.in/cfddc/2025/) |
-| **Master Terms** | [General Terms](/term/general/) |
-| **Privacy** | [General Privacy Policy](/privacy/general/) |
+| **Master Instrument** | [General Terms](/term/general/) |
+| **Privacy Instrument** | [General Privacy Policy](/privacy/general/) |
 
 ### Dissent and Immediate Cessation of Use
 
-Should the User withhold **unqualified assent** to the present Supplementary Terms, the [General Terms and Conditions of Use](/term/general/), the [General Privacy Policy](/privacy/general/), or any analytics, session-recording, or open source provisions incorporated herein by reference, the User is under an **immediate and unconditional obligation** to **cease all interaction** with **CFDC 2025**—including closure of all browser sessions, termination of authenticated accounts, uninstallation of any related Application, and permanent discontinuance of access. **Continued presence or utilisation shall constitute conclusive evidence of binding acceptance.** No partial, implied, or constructive consent shall be recognised.
+Should the User withhold **unqualified assent** to the present Product Terms and Conditions of Use, the [General Terms and Conditions of Use](/term/general/), the [General Privacy Policy](/privacy/general/), or any analytics, session-recording, or open source provisions incorporated herein by reference, the User is under an **immediate and unconditional obligation** to **cease all interaction** with **CFDC 2025**—including closure of all browser sessions, termination of authenticated accounts, uninstallation of any related Application, and permanent discontinuance of access. **Continued presence or utilisation shall constitute conclusive evidence of binding acceptance.** No partial, implied, or constructive consent shall be recognised.
 
 
 
-### Product-Specific Provisions — Informational & Portal Services
+### Special Provisions — Informational Infrastructure and Portal Services
 
-CFDC 2025 functions as part of the CodeFryDev core platform and informational infrastructure. The User acknowledges that content published through this property—including team profiles, conference materials, store listings, and directory pages—may be updated, reorganised, or retired without prior notice.
+CFDC 2025 functions as constituent infrastructure within the CodeFryDev core platform and informational architecture. The User acknowledges that content disseminated through this Property—including personnel profiles, conference materials, commercial listings, and directory pages—may be amended, reorganised, or retired without antecedent notice.
 
-Where this property links to external resources or other Ecosystem products, such links are provided for convenience and do not constitute endorsement unless expressly stated. Store or marketplace features, if present, may introduce additional purchase terms at the point of transaction.
-### Analytics and Session Intelligence
+Where this Property hyperlinks to extrinsic resources or other Ecosystem products, such links are furnished for navigational convenience and shall not be construed as endorsement unless expressly declared. Commercial or marketplace functionalities, where present, may invoke supplementary purchase terms at the locus of transaction.
+### Analytics, Telemetry, and Session Intelligence Modalities
 
-As a web-based property within the CodeFryDev Ecosystem, **CFDC 2025** participates in the platform-wide analytics and behavioural measurement programme described in **Article 43** of the [General Terms and Conditions of Use](/term/general/#article-43--analytics-telemetry-and-behavioural-measurement), including:
+Qua web-based Digital Property situated within the CodeFryDev Ecosystem, **CFDC 2025** participates in the platform-wide analytics, telemetry, and behavioural measurement architecture explicated in **Article 43** of the [General Terms and Conditions of Use](/term/general/#article-43--analytics-telemetry-and-behavioural-measurement), including:
 
 | Service | Identifier | Purpose |
 | --- | --- | --- |
 | Google Analytics | `G-VM01Q3R43D` | Traffic, engagement, feature usage, and conversion analytics |
 | Microsoft Clarity | `mxr4hxioh4` | Session recordings, heatmaps, and interaction diagnostics |
 
-By accessing or otherwise utilising **CFDC 2025**, the User consents to such processing to the extent mandated by applicable data protection law. The User is **expressly cautioned against** entering authentication credentials, payment card information, government identifiers, or other categories of Special Category Data whilst session-recording technologies remain operative. Particulars are set forth in the [General Privacy Policy](/privacy/general/).
+By accessing, invoking, or otherwise availing oneself of **CFDC 2025**, the User consents to such processing to the extent imperatively mandated by applicable data protection law. The User is **expressly cautioned against** entering authentication credentials, payment card information, government identifiers, or other categories of Special Category Data whilst session-recording technologies remain operative. Exhaustive particulars are enumerated in the [General Privacy Policy](/privacy/general/).
 
 
-### Open Source Licence
+### Open Source Licensing and Source Code Dissemination
 
 **CFDC 2025** is primarily a **proprietary platform property** within the CodeFryDev Ecosystem. It may embed MIT-licensed or other open source components; see individual component notices where available.
 
-| Field | Detail |
+| Attribute | Particulars |
 | --- | --- |
-| **Typical Licence** | Proprietary (may embed OSS components) |
-| **Source Code** | Available from CodeFryDev open source repositories (e.g. GitHub) unless marked proprietary |
-| **Master OSS Article** | [Article 29 — Open Source Software](/term/general/#article-29--open-source-software-licences-and-source-code) |
+| **Applicable Licence** | Proprietary (may embed OSS components) |
+| **Source Code Repository** | Available from CodeFryDev open source repositories (e.g. GitHub) unless marked proprietary |
+| **Master Open Source Article** | [Article 29 — Open Source Software](/term/general/#article-29--open-source-software-licences-and-source-code) |
 | **Schedule F** | [Licensing by Category](/term/general/#schedule-f--open-source-licensing-by-product-category) |
 
 The portal, branding, and hosted infrastructure for **CFDC 2025** are not necessarily licensed under MIT. Open source terms apply **only to separately identified components or repositories** linked from this product. The User must not presume the entire page or service is MIT-licenced without verifying the repository `LICENSE` file.
 
-**Material Distinction:** Access to **CFDC 2025** at `codefrydev.in` is governed by the present Supplement and the [General Privacy Policy](/privacy/general/) **concurrently with** any MIT or other open source licence applicable to the underlying source code. Analytics instrumentation (Google Analytics, Microsoft Clarity) applies exclusively to the hosted deployment.
+**Material Distinction:** Utilisation of **CFDC 2025** via the hosted deployment at `codefrydev.in` is is governed by the present Product Terms and the [General Privacy Policy](/privacy/general/), **in conjunction with** any MIT or other open source licence applicable to the underlying source code. Analytics instrumentation (Google Analytics, Microsoft Clarity) pertains exclusively to the Service Provider's hosted deployment and not to independent forks unless expressly reconfigured.
 
-### Relationship to Master Terms
+### Hierarchical Relationship to the Master Instrument
 
-Except as modified above, the [General Terms and Conditions of Use](/term/general/) govern **CFDC 2025** in full, including provisions relating to intellectual property, disclaimers, limitation of liability, indemnification, termination, and governing law (India).
+Save as expressly modified herein, the [General Terms and Conditions of Use](/term/general/) govern **CFDC 2025** in their entirety, encompassing provisions relating to intellectual property, disclaimers, limitation of liability, indemnification, termination, and governing law (India).
 
-### Amendments
+### Amendment, Revision, and Publication Protocol
 
-These Supplementary Terms may be revised when **CFDC 2025** materially changes in scope or functionality. Revisions will be published at this URL with an updated effective date.
+The Service Provider may amend the present instrument upon material evolution of **CFDC 2025** in scope, architecture, or functionality. Amended text shall be disseminated at this uniform resource locator with a revised effective date.
 
 
-### Related Policies
+### Corollary Policy Instruments and Cross-References
 
-| Policy | Link |
+| Instrument | Location |
 | --- | --- |
 | General Terms | [/term/general/](/term/general/) |
 | Privacy Policy | [/privacy/general/](/privacy/general/) |
@@ -86,10 +86,10 @@ These Supplementary Terms may be revised when **CFDC 2025** materially changes i
 | Legal Notice | [/term/legal-notice/](/term/legal-notice/) |
 | Subprocessors | [/privacy/subprocessors/](/privacy/subprocessors/) |
 
-### Effective Date
+### Effective Date and Temporal Applicability and Temporal Applicability
 
-These Supplementary Terms for **CFDC 2025** are effective as of **24 May 2026**.
+The present Product Terms and Conditions of Use governing **CFDC 2025** shall take effect as of **24 May 2026**.
 
 ---
 
-**Contact:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com)
+**Correspondence:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com)

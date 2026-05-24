@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Accessibility Statement"
 date: "2026-05-24"
-description: "CodeFryDev commitment to digital accessibility across the Ecosystem."
+description: "CodeFryDev undertaking regarding digital accessibility across the Ecosystem."
 tags: ["CFD", "CodeFryDev", "Accessibility", "WCAG"]
 ---
 

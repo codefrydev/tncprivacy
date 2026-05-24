@@ -12,13 +12,13 @@ These General Terms and Conditions of Use (hereinafter collectively referred to 
 
 The present Agreement governs the modalities, conditions, restrictions, permissions, and legal consequences attendant upon any form of engagement with the Service Provider's websites, mobile and desktop applications, browser-based tools, online games, artificial intelligence interfaces, design utilities, educational platforms, application programming interfaces, software artefacts, documentation repositories, developer portals, and any ancillary or successor digital services that may be introduced from time to time (hereinafter collectively designated the **"Digital Properties"**).
 
-The **CodeFryDev Ecosystem** comprises dozens of individual products—spanning developer tools, creative applications, games, AI services, and mobile apps—each accessible through paths under [codefrydev.in](https://codefrydev.in/) as enumerated in Schedule E. Unless a Product-Specific Supplement expressly provides otherwise, **this single Agreement governs every product in the Ecosystem**, including your use of analytics and session intelligence technologies deployed uniformly across those properties.
+The **CodeFryDev Ecosystem** comprises dozens of individual products—spanning developer tools, creative applications, games, AI services, and mobile apps—each accessible through paths under [codefrydev.in](https://codefrydev.in/) as enumerated in Schedule E. Unless a Product Terms expressly provides otherwise, **this single Agreement governs every product in the Ecosystem**, including your use of analytics and session intelligence technologies deployed uniformly across those properties.
 
-By effectuating access to, installation of, registration within, or continued utilisation of any Digital Property, the User expressly acknowledges that they have read, comprehended, and voluntarily accepted the entirety of this Agreement, together with any Product-Specific Supplementary Terms incorporated herein by reference, the Service Provider's [Privacy Policy](/privacy/), and any additional policy instruments expressly cited within these Terms. Should the User dissent from any provision herein contained, they are under a corresponding obligation to refrain forthwith from any further interaction with the Digital Properties.
+By effectuating access to, installation of, registration within, or continued utilisation of any Digital Property, the User expressly acknowledges that they have read, comprehended, and voluntarily accepted the entirety of this Agreement, together with any Product-Specific Terms incorporated herein by reference, the Service Provider's [Privacy Policy](/privacy/), and any additional policy instruments expressly cited within these Terms. Should the User dissent from any provision herein contained, they are under a corresponding obligation to refrain forthwith from any further interaction with the Digital Properties.
 
 ### Dissent and Immediate Cessation of Use
 
-If the User finds any provision of this Agreement—or any associated [Privacy Policy](/privacy/general/), Product-Specific Supplement, open source licence notice, or analytics and session-recording practice described herein or incorporated by reference—to be **unacceptable, disagreeable, unconscionable, or incompatible** with their personal convictions, commercial requirements, or legal obligations, the User is under an **immediate and unconditional obligation** to **discontinue all use** of the Digital Properties without delay.
+If the User finds any provision of this Agreement—or any associated [Privacy Policy](/privacy/general/), Product Terms, open source licence notice, or analytics and session-recording practice described herein or incorporated by reference—to be **unacceptable, disagreeable, unconscionable, or incompatible** with their personal convictions, commercial requirements, or legal obligations, the User is under an **immediate and unconditional obligation** to **discontinue all use** of the Digital Properties without delay.
 
 Such discontinuance shall include, without limitation: **closing** all browser tabs, windows, or embedded frames displaying CodeFryDev content; **terminating** active sessions and authenticated Accounts; **uninstalling** any Application from all devices; and **refraining** from any subsequent access, whether direct, automated, or through third-party links.
 
@@ -60,13 +60,13 @@ In the event of inconsistency, the following order of precedence applies:
 
 1. a separate written agreement executed by authorised representatives of both parties;
 
-2. Product-Specific Supplementary Terms for the relevant product;
+2. Product-Specific Terms for the relevant product;
 
 3. these General Terms and Conditions of Use;
 
 4. the Privacy Policy, [Cookie Policy](/privacy/cookies/), and incorporated policies;
 
-5. the [Community Code of Conduct](/term/code-of-conduct/) and [Security Policy](/term/security-disclosure/) where applicable;
+5. the [Community Code of Conduct Instrument](/term/code-of-conduct/) and [Security Policy](/term/security-disclosure/) where applicable;
 
 6. marketing materials, FAQs, and help documentation (informational only unless expressly contractual).
 
@@ -122,7 +122,7 @@ In the event of inconsistency, the following order of precedence applies:
 
 - **"Personal Data"** information about identifiable individuals, as defined under applicable data protection law.
 
-- **"Product-Specific Supplementary Terms"** additional terms for a specific Application or service, incorporated by reference.
+- **"Product-Specific Terms"** additional terms for a specific Application or service, incorporated by reference.
 
 - **"Prohibited Content"** content violating Article 7 or applicable law.
 
@@ -181,7 +181,7 @@ This Agreement applies to all present and future Digital Properties unless displ
 
 ### 3.2 Classification of Offerings
 
-Offerings may include informational websites, utility Applications, APIs, documentation portals, and experimental services described on product pages or in Supplementary Terms.
+Offerings may include informational websites, utility Applications, APIs, documentation portals, and experimental services described on product pages or in Terms of Use.
 
 ### 3.3 Gratuitous and Remunerated Provision
 
@@ -769,7 +769,7 @@ Users must distinguish between two complementary legal layers:
 
 | Layer | Governs | Instrument |
 | --- | --- | --- |
-| **Use of hosted service** | Accessing `codefrydev.in` deployments, analytics, accounts, and online features | This Agreement + Product Supplementary Terms |
+| **Use of hosted service** | Accessing `codefrydev.in` deployments, analytics, accounts, and online features | This Agreement + Product Terms of Use |
 | **Use of source code** | Cloning, modifying, redistributing, or embedding source code | The **Product Licence** (e.g. MIT) in the repository `LICENSE` file |
 
 **Using the hosted website does not automatically grant rights beyond the Product Licence when you download or fork source code**, and **possessing MIT-licensed source code does not exempt you from this Agreement when using the hosted deployment.**
@@ -972,7 +972,7 @@ Failure to enforce a provision is not a waiver.
 
 ### 38.1 Entire Agreement
 
-This Agreement, the Privacy Policy, and Supplementary Terms constitute the entire agreement.
+This Agreement, the Privacy Policy, and Terms of Use constitute the entire agreement.
 
 ### 38.2 Assignment by User
 
@@ -1194,7 +1194,7 @@ Third party engaged by the Service Provider to process Personal Data on its beha
 
 The Service Provider deploys **Analytics Services** consistently across the CodeFryDev Ecosystem to understand how Users interact with each Digital Property, to diagnose defects, to optimise user experience, and to prioritise development investment across its product portfolio. By accessing **any** Digital Property—whether a single utility such as JsonPlayground or a game such as Snake—you acknowledge that Analytics Services may be active for that session.
 
-This Article applies **cross-product**: analytics configuration is shared at the platform level unless a specific product's Supplementary Terms or Privacy Policy expressly describes additional or alternative measurement practices.
+This Article applies **cross-product**: analytics configuration is shared at the platform level unless a specific product's Terms of Use or Privacy Policy expressly describes additional or alternative measurement practices.
 
 ### 43.2 Google Analytics
 
@@ -1280,7 +1280,7 @@ The Service Provider may change Analytics Service providers, measurement identif
 
 ### 44.1 Single Agreement, Many Products
 
-The CodeFryDev Ecosystem is a **multi-product platform**. Each tool, game, utility, or application listed in Schedule E—or published subsequently at a `codefrydev.in` URL—is governed by this Agreement unless superseded by a signed enterprise contract or a Product-Specific Supplement.
+The CodeFryDev Ecosystem is a **multi-product platform**. Each tool, game, utility, or application listed in Schedule E—or published subsequently at a `codefrydev.in` URL—is governed by this Agreement unless superseded by a signed enterprise contract or a Product Terms.
 
 Users are not required to accept separate terms for each product individually; acceptance of this Agreement upon first use of any Digital Property extends to **all present and future Ecosystem products** unless you discontinue use entirely.
 
@@ -1292,15 +1292,15 @@ Schedule E organises the Ecosystem into categories for clarity. Category assignm
 
 Products added to [codefrydev.in](https://codefrydev.in/) after the Effective Date—including those appearing in the [site map](https://codefrydev.in/sitemap.xml)—are automatically covered without requiring re-acceptance, subject to amendment procedures in Article 37.
 
-### 44.4 Product-Specific Supplements
+### 44.4 Product Termss
 
-Where a product presents materially distinct risks or data practices—such as mobile Applications accessing device sensors—Supplementary Terms may be published in this repository. Supplements **add to** rather than replace this Agreement and Article 43 unless explicitly stated.
+Where a product presents materially distinct risks or data practices—such as mobile Applications accessing device sensors—Terms of Use may be published in this repository. Product Terms **add to** rather than replace this Agreement and Article 43 unless explicitly stated.
 
 ---
 
 ## Schedule E — CodeFryDev Ecosystem Product Catalogue
 
-This Schedule identifies Digital Properties within the CodeFryDev Ecosystem as referenced in the [CodeFryDev site map](https://codefrydev.in/sitemap.xml). **Each product listed below has its own Supplementary Terms page** organised by category:
+This Schedule identifies Digital Properties within the CodeFryDev Ecosystem as referenced in the [CodeFryDev site map](https://codefrydev.in/sitemap.xml). **Each product listed below has its own Terms of Use page** organised by category:
 
 | Category | Terms Index |
 | --- | --- |
@@ -1430,9 +1430,9 @@ The catalogue below is **illustrative**; the category index pages contain direct
 
 ### E.8 Mobile Applications
 
-| Property | Supplement |
+| Property | Product Terms |
 | --- | --- |
-| Water App (Hydration Reminder) | [Supplementary Terms](/term/water/) and [Privacy Policy](/privacy/water/) |
+| Water App (Hydration Reminder) | [Terms of Use](/term/water/) and [Privacy Policy](/privacy/water/) |
 
 Mobile Applications may employ platform-native analytics SDKs in addition to, or instead of, web-based Google Analytics and Microsoft Clarity, as described in applicable Privacy Policies.
 
@@ -1473,7 +1473,7 @@ Each open source product's licence is located in:
 
 - the root `LICENSE` or `LICENCE` file of its GitHub or Git repository;
 - an in-app "About", "Licences", or "Open Source" notice where implemented; or
-- the Product's Supplementary Terms page under **Open Source Licence** section.
+- the Product's Terms of Use page under **Open Source Licence** section.
 
 ### F.3 Permitted Uses Under MIT (Source Code)
 
@@ -1500,7 +1500,7 @@ Where the User **materially modifies** source code and redistributes or publicly
 
 ### 45.1 Applicability
 
-Participation in CodeFryDev open source repositories, issue trackers, discussion forums, and community channels is governed by the [Community Code of Conduct](/term/code-of-conduct/), incorporated herein by reference.
+Participation in CodeFryDev open source repositories, issue trackers, discussion forums, and community channels is governed by the [Community Code of Conduct Instrument](/term/code-of-conduct/), incorporated herein by reference.
 
 ### 45.2 Enforcement
 
@@ -1516,7 +1516,7 @@ The Service Provider maintains zero tolerance for harassment, discrimination, or
 
 ### 46.1 Reporting Vulnerabilities
 
-Security vulnerabilities should be reported in accordance with the [Security & Responsible Disclosure Policy](/term/security-disclosure/). **Public disclosure before coordination may forfeit safe-harbour protections.**
+Security vulnerabilities should be reported in accordance with the [Security and Responsible Disclosure Policy Policy](/term/security-disclosure/). **Public disclosure before coordination may forfeit safe-harbour protections.**
 
 ### 46.2 Prohibited Testing
 
@@ -1675,9 +1675,9 @@ The following documents form part of the CodeFryDev legal and community framewor
 | General Terms (this Agreement) | [/term/general/](/term/general/) |
 | General Privacy Policy | [/privacy/general/](/privacy/general/) |
 | Cookie Policy | [/privacy/cookies/](/privacy/cookies/) |
-| Community Code of Conduct | [/term/code-of-conduct/](/term/code-of-conduct/) |
-| Security & Responsible Disclosure | [/term/security-disclosure/](/term/security-disclosure/) |
-| Product Supplementary Terms | [/term/](/term/) (by category) |
+| Community Code of Conduct Instrument | [/term/code-of-conduct/](/term/code-of-conduct/) |
+| Security and Responsible Disclosure Policy | [/term/security-disclosure/](/term/security-disclosure/) |
+| Product Terms of Use | [/term/](/term/) (by category) |
 | Open Source `LICENSE` files | Per product repository |
 | Subprocessor List | [/privacy/subprocessors/](/privacy/subprocessors/) |
 | Legal Notice & Publisher Info | [/term/legal-notice/](/term/legal-notice/) |
@@ -1725,7 +1725,7 @@ CodeFryDev open source projects typically include:
 | `LICENSE` | MIT or other Product Licence |
 | `README.md` | Project overview and usage |
 | `CONTRIBUTING.md` | Contribution guidelines (where published) |
-| `CODE_OF_CONDUCT.md` | Link to [Community Code of Conduct](/term/code-of-conduct/) |
+| `CODE_OF_CONDUCT.md` | Link to [Community Code of Conduct Instrument](/term/code-of-conduct/) |
 | `SECURITY.md` | Link to [Security Policy](/term/security-disclosure/) |
 
 **Pull requests** may be reviewed at maintainer discretion. **Issues** should include reproduction steps. **Releases** may be tagged semver. **Security patches** prioritised for actively maintained repositories.
@@ -1828,7 +1828,7 @@ AI systems incorporating CodeFryDev public documentation should attribute the so
 
 ## Closing Provisions
 
-These General Terms and Conditions of Use, including all Schedules hereto, constitute the master contractual framework for CodeFryDev Digital Properties. Product-Specific Supplementary Terms modify or supplement this Agreement only to the extent expressly stated therein.
+These General Terms and Conditions of Use, including all Schedules hereto, constitute the master contractual framework for CodeFryDev Digital Properties. Product-Specific Terms modify this Agreement only to the extent expressly stated therein.
 
 For questions regarding interpretation, compliance, or enforcement, contact **CodeFryDev** at [codefrydev@gmail.com](mailto:codefrydev@gmail.com).
 

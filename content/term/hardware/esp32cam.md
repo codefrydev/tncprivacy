@@ -1,32 +1,32 @@
 ---
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
-title: "ESP32 Camera — Supplementary Terms"
+title: "ESP32 Camera — Product Terms and Conditions of Use"
 date: "2026-05-24"
-description: "Product-specific Terms and Conditions for ESP32 Camera within the CodeFryDev Ecosystem."
+description: "Product Terms and Conditions of Use governing ESP32 Camera within the CodeFryDev Ecosystem."
 tags: ["CFD", "CodeFryDev", "Terms", "ESP32 Camera"]
 categories: ["hardware"]
 product_url: "https://codefrydev.in/Esp32cam/"
 ---
 
-## Product-Specific Supplementary Terms
+## Product Terms and Conditions of Use
 
-These Terms constitute a **Product-Specific Supplement** to the [CodeFryDev General Terms and Conditions of Use](/term/general/) (the **"General Terms"**). They apply exclusively to **ESP32 Camera** (the **"Product"**), accessible at [https://codefrydev.in/Esp32cam/](https://codefrydev.in/Esp32cam/).
+The present instrument establishes the **Product Terms and Conditions of Use** governing **ESP32 Camera** (the **"Product"**), accessible at [https://codefrydev.in/Esp32cam/](https://codefrydev.in/Esp32cam/), incorporated herein by reference into the [CodeFryDev General Terms and Conditions of Use](/term/general/) (hereinafter the **"General Terms"**).
 
-By effectuating access to or utilisation of the Product, the User voluntarily undertakes to be bound concurrently by the General Terms, the present Supplement, and the [General Privacy Policy](/privacy/general/). In the event of irreconcilable inconsistency, **this Supplement shall prevail solely with respect to ESP32 Camera**.
+By effectuating access to, navigation within, or continued utilisation of the Product, the User voluntarily undertakes concurrent juridical obligation under the General Terms, the present Product Terms, and the [General Privacy Policy](/privacy/general/). In the event of irreconcilable inconsistency, **these Product Terms shall prevail solely with respect to ESP32 Camera**.
 
-### Product Identification
+### Designation, Classification, and Identifying Particulars
 
-| Field | Detail |
+| Attribute | Particulars |
 | --- | --- |
-| **Product Name** | ESP32 Camera |
-| **Category** | Hardware & Embedded |
+| **Designation** | ESP32 Camera |
+| **Taxonomic Classification** | Hardware & Embedded |
 | **URL** | [https://codefrydev.in/Esp32cam/](https://codefrydev.in/Esp32cam/) |
-| **Master Terms** | [General Terms](/term/general/) |
-| **Privacy** | [General Privacy Policy](/privacy/general/) |
+| **Master Instrument** | [General Terms](/term/general/) |
+| **Privacy Instrument** | [General Privacy Policy](/privacy/general/) |
 
 ### Dissent and Immediate Cessation of Use
 
-Should the User withhold **unqualified assent** to the present Supplementary Terms, the [General Terms and Conditions of Use](/term/general/), the [General Privacy Policy](/privacy/general/), or any analytics, session-recording, or open source provisions incorporated herein by reference, the User is under an **immediate and unconditional obligation** to **cease all interaction** with **ESP32 Camera**—including closure of all browser sessions, termination of authenticated accounts, uninstallation of any related Application, and permanent discontinuance of access. **Continued presence or utilisation shall constitute conclusive evidence of binding acceptance.** No partial, implied, or constructive consent shall be recognised.
+Should the User withhold **unqualified assent** to the present Product Terms and Conditions of Use, the [General Terms and Conditions of Use](/term/general/), the [General Privacy Policy](/privacy/general/), or any analytics, session-recording, or open source provisions incorporated herein by reference, the User is under an **immediate and unconditional obligation** to **cease all interaction** with **ESP32 Camera**—including closure of all browser sessions, termination of authenticated accounts, uninstallation of any related Application, and permanent discontinuance of access. **Continued presence or utilisation shall constitute conclusive evidence of binding acceptance.** No partial, implied, or constructive consent shall be recognised.
 
 
 
@@ -43,47 +43,47 @@ ESP32 Camera interfaces with embedded systems, microcontrollers, camera modules,
 (d) the Service Provider is not liable for property damage, data loss, or personal injury arising from hardware experiments; and
 
 (e) telemetry related to device pairing or diagnostic pages may be collected per the [General Privacy Policy](/privacy/general/).
-### Analytics and Session Intelligence
+### Analytics, Telemetry, and Session Intelligence Modalities
 
-As a web-based property within the CodeFryDev Ecosystem, **ESP32 Camera** participates in the platform-wide analytics and behavioural measurement programme described in **Article 43** of the [General Terms and Conditions of Use](/term/general/#article-43--analytics-telemetry-and-behavioural-measurement), including:
+Qua web-based Digital Property situated within the CodeFryDev Ecosystem, **ESP32 Camera** participates in the platform-wide analytics, telemetry, and behavioural measurement architecture explicated in **Article 43** of the [General Terms and Conditions of Use](/term/general/#article-43--analytics-telemetry-and-behavioural-measurement), including:
 
 | Service | Identifier | Purpose |
 | --- | --- | --- |
 | Google Analytics | `G-VM01Q3R43D` | Traffic, engagement, feature usage, and conversion analytics |
 | Microsoft Clarity | `mxr4hxioh4` | Session recordings, heatmaps, and interaction diagnostics |
 
-By accessing or otherwise utilising **ESP32 Camera**, the User consents to such processing to the extent mandated by applicable data protection law. The User is **expressly cautioned against** entering authentication credentials, payment card information, government identifiers, or other categories of Special Category Data whilst session-recording technologies remain operative. Particulars are set forth in the [General Privacy Policy](/privacy/general/).
+By accessing, invoking, or otherwise availing oneself of **ESP32 Camera**, the User consents to such processing to the extent imperatively mandated by applicable data protection law. The User is **expressly cautioned against** entering authentication credentials, payment card information, government identifiers, or other categories of Special Category Data whilst session-recording technologies remain operative. Exhaustive particulars are enumerated in the [General Privacy Policy](/privacy/general/).
 
 
-### Open Source Licence
+### Open Source Licensing and Source Code Dissemination
 
-**ESP32 Camera** is part of the CodeFryDev open source portfolio. Its source code is typically published under the **MIT Licence**, unless a different licence is specified in the product repository `LICENSE` file.
+**ESP32 Camera** forms part of the CodeFryDev open source corpus. Corresponding source code is ordinarily disseminated under the **MIT Licence**, absent specification of an alternative licence within the repository `LICENSE` artefact.
 
-| Field | Detail |
+| Attribute | Particulars |
 | --- | --- |
-| **Typical Licence** | **MIT Licence** (unless otherwise specified in repository) |
-| **Source Code** | Available from CodeFryDev open source repositories (e.g. GitHub) unless marked proprietary |
-| **Master OSS Article** | [Article 29 — Open Source Software](/term/general/#article-29--open-source-software-licences-and-source-code) |
+| **Applicable Licence** | **MIT Licence** (unless otherwise specified in repository) |
+| **Source Code Repository** | Available from CodeFryDev open source repositories (e.g. GitHub) unless marked proprietary |
+| **Master Open Source Article** | [Article 29 — Open Source Software](/term/general/#article-29--open-source-software-licences-and-source-code) |
 | **Schedule F** | [Licensing by Category](/term/general/#schedule-f--open-source-licensing-by-product-category) |
 
-Pursuant to the **MIT Licence**, the User may reproduce, modify, and distribute the corresponding source code subject to inclusion of the copyright notice and licence text. The software is furnished **"AS IS"**, **without warranty of any kind**. The MIT Licence **does not** convey rights in CodeFryDev trade marks nor authorise the suggestion of official endorsement of derivative or forked distributions.
+Pursuant to the **MIT Licence**, the User is authorised to reproduce, modify, and distribute the corresponding source code subject to mandatory inclusion of the copyright notice and licence text. The software is furnished **"AS IS"**, **without warranty of any kind**. The MIT Licence **does not** convey rights in CodeFryDev trade marks nor authorise the suggestion of official endorsement of derivative or forked distributions.
 
-Persons who fork or redistribute **ESP32 Camera** assume sole responsibility for compliance with all transitive dependency licences and for excising or replacing analytics identifiers should they deploy an independently hosted instance.
+Natural or juridical persons who fork, mirror, or redistribute **ESP32 Camera** assume exclusive responsibility for conformity with all transitive dependency licences and for the excision or replacement of analytics identifiers upon deployment of an independently hosted instance.
 
-**Material Distinction:** Access to **ESP32 Camera** at `codefrydev.in` is governed by the present Supplement and the [General Privacy Policy](/privacy/general/) **concurrently with** any MIT or other open source licence applicable to the underlying source code. Analytics instrumentation (Google Analytics, Microsoft Clarity) applies exclusively to the hosted deployment.
+**Material Distinction:** Utilisation of **ESP32 Camera** via the hosted deployment at `codefrydev.in` is is governed by the present Product Terms and the [General Privacy Policy](/privacy/general/), **in conjunction with** any MIT or other open source licence applicable to the underlying source code. Analytics instrumentation (Google Analytics, Microsoft Clarity) pertains exclusively to the Service Provider's hosted deployment and not to independent forks unless expressly reconfigured.
 
-### Relationship to Master Terms
+### Hierarchical Relationship to the Master Instrument
 
-Except as modified above, the [General Terms and Conditions of Use](/term/general/) govern **ESP32 Camera** in full, including provisions relating to intellectual property, disclaimers, limitation of liability, indemnification, termination, and governing law (India).
+Save as expressly modified herein, the [General Terms and Conditions of Use](/term/general/) govern **ESP32 Camera** in their entirety, encompassing provisions relating to intellectual property, disclaimers, limitation of liability, indemnification, termination, and governing law (India).
 
-### Amendments
+### Amendment, Revision, and Publication Protocol
 
-These Supplementary Terms may be revised when **ESP32 Camera** materially changes in scope or functionality. Revisions will be published at this URL with an updated effective date.
+The Service Provider may amend the present instrument upon material evolution of **ESP32 Camera** in scope, architecture, or functionality. Amended text shall be disseminated at this uniform resource locator with a revised effective date.
 
 
-### Related Policies
+### Corollary Policy Instruments and Cross-References
 
-| Policy | Link |
+| Instrument | Location |
 | --- | --- |
 | General Terms | [/term/general/](/term/general/) |
 | Privacy Policy | [/privacy/general/](/privacy/general/) |
@@ -96,10 +96,10 @@ These Supplementary Terms may be revised when **ESP32 Camera** materially change
 | Legal Notice | [/term/legal-notice/](/term/legal-notice/) |
 | Subprocessors | [/privacy/subprocessors/](/privacy/subprocessors/) |
 
-### Effective Date
+### Effective Date and Temporal Applicability and Temporal Applicability
 
-These Supplementary Terms for **ESP32 Camera** are effective as of **24 May 2026**.
+The present Product Terms and Conditions of Use governing **ESP32 Camera** shall take effect as of **24 May 2026**.
 
 ---
 
-**Contact:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com)
+**Correspondence:** [codefrydev@gmail.com](mailto:codefrydev@gmail.com)

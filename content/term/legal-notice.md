@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Legal Notice & Publisher Information"
 date: "2026-05-24"
-description: "Publisher identification and legal contact information for CodeFryDev."
+description: "Publisher identification and juridical contact and legal contact information for CodeFryDev."
 tags: ["CFD", "CodeFryDev", "Legal Notice"]
 ---
 
@@ -33,8 +33,8 @@ Terms & Privacy Repository: [https://codefrydev.in/tncprivacy/](https://codefryd
 - [General Terms and Conditions of Use](/term/general/)
 - [General Privacy Policy](/privacy/general/)
 - [Cookie Policy](/privacy/cookies/)
-- [Community Code of Conduct](/term/code-of-conduct/)
-- [Security & Responsible Disclosure](/term/security-disclosure/)
+- [Community Code of Conduct Instrument](/term/code-of-conduct/)
+- [Security and Responsible Disclosure Policy](/term/security-disclosure/)
 - [DMCA / Copyright Policy](/term/dmca/)
 - [Trade Mark Guidelines](/term/trademark/)
 - [Accessibility Statement](/term/accessibility/)

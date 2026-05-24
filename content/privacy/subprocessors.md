@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Subprocessor List"
 date: "2026-05-24"
-description: "Third-party subprocessors used by CodeFryDev to process personal data."
+description: "Third-party subprocessor entities used by CodeFryDev to process personal data."
 tags: ["CFD", "CodeFryDev", "Privacy", "Subprocessors"]
 ---
 

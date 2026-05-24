@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Trade Mark & Brand Usage Guidelines"
 date: "2026-05-24"
-description: "Permitted and prohibited uses of CodeFryDev trade marks and branding."
+description: "Permissible and proscribed modalities of use of CodeFryDev trade marks and branding."
 tags: ["CFD", "CodeFryDev", "Trademark", "Brand"]
 ---
 

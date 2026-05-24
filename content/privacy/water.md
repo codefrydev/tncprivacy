@@ -1,14 +1,14 @@
 ---
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
-title: "Water App — Supplementary Privacy Policy"
+title: "Water App — Product Privacy Policy"
 date: "2026-05-24"
-description: "Privacy Policy for the Water hydration-reminder mobile application."
+description: "Privacy policy instrument for the Water hydration-reminder mobile application."
 tags: ["CFD", "CodeFryDev", "Privacy", "Water App"]
 ---
 
 ## Preamble
 
-The present Privacy Policy governs the **Water App** mobile hydration-reminder application published by **CodeFryDev**. It supplements the [General Privacy Policy](/privacy/general/) and should be read in conjunction with the [Water App Supplementary Terms](/term/water/).
+The present Privacy Policy governs the **Water App** mobile hydration-reminder application published by **CodeFryDev**. It supplements the [General Privacy Policy](/privacy/general/) and should be read in conjunction with the [Water App Terms of Use](/term/water/).
 
 ### Dissent and Immediate Cessation
 
@@ -97,7 +97,7 @@ Material revisions shall be published at this URL. Continued use constitutes ack
 
 ---
 
-## Effective Date
+## Effective Date and Temporal Applicability
 
 **24 May 2026**
 

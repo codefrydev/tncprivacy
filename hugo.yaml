@@ -33,7 +33,7 @@ menu:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: codefrydev
-  description: "Comprehensive legal and privacy framework governing the CodeFryDev Ecosystem — Terms, Privacy Policy, and product-specific instruments."
+  description: "Authoritative juridical and privacy policy corpus governing the CodeFryDev Ecosystem — master Terms, Privacy instruments, and product-specific policy documents."
   keywords: [Privacy, Term, Conditions, CodeFryDev, CFD,Privacy, TnC]
   mainSections: ["privacy", "term"]
   author: Codeferydev

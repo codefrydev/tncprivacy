@@ -2,7 +2,7 @@
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
 title: "Cookie Policy"
 date: "2026-05-24"
-description: "Cookie and similar technology usage across the CodeFryDev ecosystem."
+description: "Employment of cookies and analogous persistence usage across the CodeFryDev ecosystem."
 tags: ["CFD", "CodeFryDev", "Privacy", "Cookies"]
 ---
 

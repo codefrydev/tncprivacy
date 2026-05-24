@@ -1,26 +1,26 @@
 ---
 author: ["CodeFryDev", "Prashantunity", "Abhijeetunreal"]
-title: "Water App — Supplementary Terms"
+title: "Water App — Product Terms and Conditions of Use"
 date: "2026-05-24"
-description: "Product-specific Terms and Conditions for the Water reminder mobile application, supplementing the CodeFryDev General Terms."
+description: "Product Terms and Conditions of Use governing the Water reminder mobile application, under the CodeFryDev General Terms and Conditions of Use."
 tags: ["CFD", "CodeFryDev", "Terms", "Water App"]
 ---
 
-## Product-Specific Supplementary Terms
+## Product Terms and Conditions of Use
 
-The present instrument constitutes a **Product-Specific Supplement** to the [CodeFryDev General Terms and Conditions of Use](/term/general/) (hereinafter the **"General Terms"**). By downloading, installing, accessing, or otherwise utilising the Water App (hereinafter the **"Application"**), the User acknowledges and agrees to be bound concurrently by both the General Terms and the supplementary provisions hereinafter set forth.
+The present instrument sets forth **Product Terms** under the [CodeFryDev General Terms and Conditions of Use](/term/general/) (hereinafter the **"General Terms"**). By downloading, installing, accessing, or otherwise utilising the Water App (hereinafter the **"Application"**), the User acknowledges and agrees to be bound concurrently by both the General Terms and the provisions hereinafter set forth.
 
-In the event of any irreconcilable inconsistency between this Supplement and the General Terms, the provisions of this Supplement shall prevail **solely with respect to the Application**; all other provisions of the General Terms shall remain in full force and effect without modification.
+In the event of any irreconcilable inconsistency between these Product Terms and the General Terms, the provisions of these Product Terms shall prevail **solely with respect to the Application**; all other provisions of the General Terms shall remain in full force and effect without modification.
 
 The Application constitutes a mobile hydration-reminder service developed and disseminated by **CodeFryDev** (hereinafter the **"Service Provider"**). At present, the Application is offered on a gratuitous basis, subject to the Service Provider's reserved prerogative to introduce remunerative features upon adequate prior notice, as contemplated within the General Terms.
 
 ### Dissent and Immediate Cessation of Use
 
-Should the User withhold unqualified assent to the present Supplement, the [General Terms](/term/general/), or the [Water App Privacy Policy](/privacy/water/), the User is under an **immediate and unconditional obligation** to **uninstall the Application forthwith** and discontinue all use without delay.
+Should the User withhold unqualified assent to these Product Terms, the [General Terms](/term/general/), or the [Water App Privacy Policy](/privacy/water/), the User is under an **immediate and unconditional obligation** to **uninstall the Application forthwith** and discontinue all use without delay.
 
-### Related Policies
+### Corollary Policy Instruments and Cross-References
 
-| Policy | Link |
+| Instrument | Location |
 | --- | --- |
 | General Terms | [/term/general/](/term/general/) |
 | Water App Privacy | [/privacy/water/](/privacy/water/) |
@@ -73,16 +73,16 @@ For particulars regarding the processing of personal data in connection with the
 
 ---
 
-## 6. Amendment of Supplementary Terms
+## 6. Amendment of Terms of Use
 
-The Service Provider may revise this Supplement periodically to reflect changes in the Application, applicable law, or operational requirements. Material amendments shall be published upon this page. Continued use of the Application following such publication shall constitute acceptance of the revised Supplement to the extent permitted by applicable law.
+The Service Provider may revise these Product Terms periodically to reflect changes in the Application, applicable law, or operational requirements. Material amendments shall be published upon this page. Continued use of the Application following such publication shall constitute acceptance of the revised Product Terms to the extent permitted by applicable law.
 
-This Supplement shall take effect as of **24 May 2026**.
+These Product Terms shall take effect as of **24 May 2026**.
 
 ---
 
 ## Correspondence
 
-Enquiries pertaining to this Supplement may be directed to the Service Provider at [codefrydev@gmail.com](mailto:codefrydev@gmail.com).
+Enquiries pertaining to these Product Terms may be directed to the Service Provider at [codefrydev@gmail.com](mailto:codefrydev@gmail.com).
 
 * * *
